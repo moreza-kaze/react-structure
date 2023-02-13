@@ -4,5 +4,10 @@
         "store":"redux-store",
         "slices":"redux-actions",
         "feature":"App"
-    }
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
 }
