@@ -1,1 +1,1 @@
-export { default as api } from './axiosHttp';
+export { default as api } from './axios';
