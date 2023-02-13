@@ -1,0 +1,7 @@
+{
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.folders.associations": {
+        "store":"redux-store",
+        "slices":"redux-actions"
+    }
+}
